@@ -21,8 +21,6 @@ An end-to-end SQL Data Warehouse project demonstrating data ingestion, data clea
 - #-example-analytical-queries
 - #-data-quality-and-validation
 - #-key-concepts-demonstrated
-- #-future-enhancements
-- #-author
 
 ---
 
