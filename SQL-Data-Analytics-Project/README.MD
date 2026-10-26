@@ -350,4 +350,4 @@ By combining exploratory analysis, KPI reporting, segmentation, trend analysis, 
 
 ---
 
-👑 "Every customer is special. Some are just special enough to be labeled VIP by a CASE statement."
+👑 _"Every customer is special. Some are just special enough to be labeled VIP by a CASE statement."_
