@@ -350,10 +350,4 @@ By combining exploratory analysis, KPI reporting, segmentation, trend analysis, 
 
 ---
 
-## Author
-
-**Jerin Abraham George**
-
-Data Analyst | SQL Developer | Business Intelligence Enthusiast
-
-> Turning raw data into meaningful insights through analytics, reporting, and data-driven storytelling.
+👑 "Every customer is special. Some are just special enough to be labeled VIP by a CASE statement."
