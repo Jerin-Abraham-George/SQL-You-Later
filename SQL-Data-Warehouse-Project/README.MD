@@ -235,11 +235,7 @@ The Gold Layer exposes business-ready analytical datasets.
 | Product          |---+---| Sales Fact       |
 | Dimension        |       | Transactions     |
 +------------------+       +------------------+
-                                    |
-                                    |
-                           +------------------+
-                           | Date Dimension   |
-                           +------------------+
+
 ```
 
 > Replace this diagram with your actual Gold-layer schema if it differs.
