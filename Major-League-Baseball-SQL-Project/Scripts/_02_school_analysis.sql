@@ -11,12 +11,12 @@ c) For each decade, what were the names of the top 3 schools that produced the m
 
 -- Solution a:
 		
-    		SELECT 
+    	SELECT 
     		ROUND(yearID, -1) AS decade,
     		COUNT(DISTINCT schoolID) AS num_schools
-    		FROM mlb.schools
-    		GROUP BY ROUND(yearID, -1)
-    		ORDER BY ROUND(yearID, -1)
+    	FROM mlb.schools
+    	GROUP BY ROUND(yearID, -1)
+    	ORDER BY ROUND(yearID, -1)
 
 
 -- Solution b:
