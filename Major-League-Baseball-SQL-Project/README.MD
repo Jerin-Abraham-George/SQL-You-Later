@@ -1,8 +1,7 @@
 # ⚾ Major League Baseball SQL Project
-<br>
+
 
 ## Overview
-<br>
 
 This project contains SQL solutions to analytical questions based on historical Major League Baseball (MLB) data.
 
@@ -12,23 +11,18 @@ The project focuses on applying advanced SQL techniques to uncover trends, patte
 <br>
 
 ---
-<br>
 
 ## Objectives
-<br>
 
 - Analyze historical MLB data using SQL.
 - Explore player, team, and salary trends.
 - Solve analytical and business-oriented questions.
 - Apply advanced SQL concepts to real-world datasets.
 - Strengthen data analysis and querying skills.
-<br>
 
 ---
-<br>
 
 ## Business Domains Covered
-<br>
 
 ### ⚾ Players
 - Career Statistics
@@ -40,38 +34,31 @@ The project focuses on applying advanced SQL techniques to uncover trends, patte
 ### 🏫 Schools
 - School Contributions
 - Player Development
-<br>
 
 ### 💰 Salaries
 - Team Spending
 - Salary Trends
 - Payroll Analysis
-<br>
 
 ### 🏟️ Teams
 - Team Performance
 - Historical Trends
 - Spending Patterns
-<br>
 
 ---
-<br>
 
 ## Key Features
-<br>
 
 ### 🔍 Data Exploration
 - Understanding data relationships
 - Exploring historical baseball records
 - Identifying trends across decades
-<br>
 
 ### 📊 Business Analysis
 - School Analysis
 - Salary Analysis
 - Team Analysis
 - Player Career Analysis
-<br>
 
 ### ⚡ Advanced SQL
 - Joins
@@ -80,13 +67,10 @@ The project focuses on applying advanced SQL techniques to uncover trends, patte
 - Window Functions
 - Ranking Functions
 - CASE Statements
-<br>
 
 ---
-<br>
 
 ## SQL Concepts Demonstrated
-<br>
 
 - SELECT
 - WHERE
@@ -100,22 +84,16 @@ The project focuses on applying advanced SQL techniques to uncover trends, patte
 - Window Functions
 - Ranking Functions
 - Conditional Logic
-<br>
 
 ---
-<br>
 
 ## Tools & Technologies
-<br>
 
 - SQL Server
 - T-SQL
 - MLB Database
 - GitHub
-<br>
 
 ---
 
-<br>
-
-👑 *"Baseball has statistics. SQL has answers."*
+⚾ *"Baseball has statistics. SQL has answers."*
