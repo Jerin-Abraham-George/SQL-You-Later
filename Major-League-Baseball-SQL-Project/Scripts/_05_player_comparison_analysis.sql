@@ -1,3 +1,16 @@
+/*
+MLB Player Demographics Analysis:
+----------------------------------------------------------------------------------------------------------------------------------------------------
+This analysis explores various player characteristics and demographics in Major League Baseball (MLB), focusing on identifying players 
+who share the same birthday and examining batting preferences across different teams.
+
+It also investigates how the average height and weight of players at their debut changed over the decades, highlighting the differences 
+in physical attributes across generations of MLB players.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+*/
+
+/*================================================================================================================================================*/
+
 /* Question 1:
 
 a) Which players have the same birthday?
@@ -9,7 +22,7 @@ c) How have average height and weight at debut game changed over the years, and 
 */
 
 
--- Solution a.
+-- Solution a: Identify players who share the same birthday
 
 		WITH bn AS (
 			SELECT 
@@ -27,7 +40,7 @@ c) How have average height and weight at debut game changed over the years, and 
 		ORDER BY birthdate;
 
 
--- Solution b.
+-- Solution b: Percentage breakdown of right-handed, left-handed, and switch hitters for each team
 
 		SELECT
 			s.teamID,
@@ -41,7 +54,7 @@ c) How have average height and weight at debut game changed over the years, and 
 		GROUP BY s.teamID;
 
 
--- Solution c.
+-- Solution c: Decade-over-decade changes in average player height and weight at debut
 
 		WITH hw AS (
 		SELECT
