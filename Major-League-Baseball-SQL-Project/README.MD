@@ -1,5 +1,6 @@
 # ⚾ Major League Baseball SQL Project
 
+![MLB Logo]()
 
 ## Overview
 
