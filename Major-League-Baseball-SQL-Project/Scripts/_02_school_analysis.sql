@@ -1,5 +1,5 @@
 /*
-MLB Schools Analysis:
+School Analysis:
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 This analysis explores the contribution of educational institutions to Major League Baseball (MLB), focusing on the number of schools 
 that have produced MLB players across different decades.
