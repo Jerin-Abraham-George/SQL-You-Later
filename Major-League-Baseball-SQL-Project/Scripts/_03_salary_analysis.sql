@@ -1,3 +1,15 @@
+/*
+Salary Analysis:
+----------------------------------------------------------------------------------------------------------------------------------------------------
+This analysis explores historical MLB team spending patterns, focusing on identifying the top-spending teams based on their average annual 
+payroll and examining how team spending has evolved over the years.
+
+It also tracks the cumulative spending of each team to identify the first year in which their total historical spending surpassed $1 billion.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+*/
+
+/*================================================================================================================================================*/
+
 /* Question 2:
 
 a) Return the top 20% of teams in terms of average annual spending.
@@ -9,7 +21,7 @@ c) Return the first year that each team's cumulative spending surpassed 1 billio
 */
 
 
--- Solution a.
+-- Solution a: Top 20% of teams based on average annual spending
 		
 		WITH ts AS (
 			SELECT
@@ -35,7 +47,7 @@ c) Return the first year that each team's cumulative spending surpassed 1 billio
 		WHERE spend_pct = 1
 
 
--- Solution b.
+-- Solution b: Cumulative spending of each team over the years
 		
 		WITH ts AS (
 			SELECT
@@ -57,7 +69,7 @@ c) Return the first year that each team's cumulative spending surpassed 1 billio
 		ORDER BY teamID, yearID
 		
 
--- Solution c.
+-- Solution c: First year each team's cumulative spending surpassed $1 billion
 
 		WITH ts AS (
 			SELECT
