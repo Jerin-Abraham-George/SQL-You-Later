@@ -1,6 +1,6 @@
 # ⚾ Major League Baseball SQL Project
 
-![MLB Logo]()
+![MLB Logo](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Major-League-Baseball-SQL-Project/MLB%20Logo.png)
 
 ## Overview
 
