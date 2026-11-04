@@ -1,3 +1,16 @@
+/*
+MLB Schools Analysis:
+----------------------------------------------------------------------------------------------------------------------------------------------------
+This analysis explores the contribution of educational institutions to Major League Baseball (MLB), focusing on the number of schools 
+that have produced MLB players across different decades.
+
+It also identifies the top 5 schools that have produced the most players overall and highlights the top 3 player-producing schools 
+within each decade.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+*/
+
+/*================================================================================================================================================*/
+
 /* Question 1:
 
 a) In each decade, how many schools were there that produced MLB players?
@@ -9,7 +22,7 @@ c) For each decade, what were the names of the top 3 schools that produced the m
 */
 
 
--- Solution a:
+-- Solution a: Number of schools producing MLB players in each decade
 		
 		SELECT 
 			ROUND(yearID, -1) AS decade,
@@ -19,7 +32,7 @@ c) For each decade, what were the names of the top 3 schools that produced the m
 		ORDER BY ROUND(yearID, -1)
 
 
--- Solution b:
+-- Solution b: Top 5 schools that have produced the most MLB players overall
 
 		SELECT TOP 5
 			s.schoolID,
@@ -32,7 +45,7 @@ c) For each decade, what were the names of the top 3 schools that produced the m
 		ORDER BY COUNT(DISTINCT s.playerID) DESC
 
 
--- Solution c:
+-- Solution c: Top 3 player-producing schools for each decade
 
 		WITH decades_schools AS (
 		SELECT 
