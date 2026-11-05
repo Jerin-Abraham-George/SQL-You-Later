@@ -6,6 +6,7 @@ The **Healthcare Analytics SQL Project** is a SQL-based data analysis project fo
 
 Using **Microsoft SQL Server**, I analyzed healthcare data to uncover insights into patient populations, clinical services, hospital operations, insurance reimbursements, and revenue cycle management.
 
+![Image](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Healthcare-Analytics-SQL-Project/Documents/Healthcare%20Image.jpg)
 ---
 
 ## 🎯 Objectives
