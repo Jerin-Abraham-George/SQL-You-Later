@@ -18,8 +18,6 @@ Using **Microsoft SQL Server**, I analyzed healthcare data to uncover insights i
 - Analyze insurance payments, medical charges, and reimbursements.
 - Identify revenue leakage and opportunities to improve collection performance.
 
-![ERD Diagram](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Healthcare-Analytics-SQL-Project/Documents/ERD%20Diagram.png)
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -54,6 +52,8 @@ The project is divided into three major analytical areas:
 - Physician credentialing adjustments and revenue leakage.
 - Net Collection Rate and Accounts Receivable analysis.
 - Charge per Unit and Payment per Unit.
+
+![ERD Diagram](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Healthcare-Analytics-SQL-Project/Documents/ERD%20Diagram.png)
 
 ---
 
