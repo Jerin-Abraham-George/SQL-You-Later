@@ -6,6 +6,8 @@ The **E-commerce Analytics SQL Project** is a business-focused SQL analysis proj
 
 Using **Microsoft SQL Server**, this project transforms raw business data into actionable insights by analyzing website traffic, conversion funnels, revenue trends, product performance, and customer purchasing behavior.
 
+![Image](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Ecommerce-Analytics-SQL-Project/Documents/E-Commerce%20Analytics%20SQL%20Project.png)
+
 ---
 
 ## 🎯 Objectives
