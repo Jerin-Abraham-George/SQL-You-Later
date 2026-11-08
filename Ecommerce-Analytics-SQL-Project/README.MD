@@ -31,6 +31,8 @@ Using **Microsoft SQL Server**, this project transforms raw business data into a
 
 ## 🗂️ Project Structure
 
+![Project ERD Diagram](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Ecommerce-Analytics-SQL-Project/Documents/E-commerce%20Analytics%20ERD%20Diagram.png)
+
 ### 📈 Traffic Source Analysis
 
 - Marketing channel traffic trends.
