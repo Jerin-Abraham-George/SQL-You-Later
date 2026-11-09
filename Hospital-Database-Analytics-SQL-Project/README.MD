@@ -6,6 +6,8 @@ The **Hospital Database Analytics SQL Project** is a SQL-based data analysis pro
 
 Through **54 SQL questions and solutions**, this project explores patient demographics, hospital admissions, physician activity, medical diagnoses, and geographical healthcare trends to uncover meaningful insights from healthcare data while strengthening real-world SQL skills.
 
+![Image](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Hospital-Database-Analytics-SQL-Project/Documents/Image.png)
+
 ---
 
 ## 🎯 Objectives
