@@ -48,6 +48,8 @@ The database consists of four relational tables:
 | `doctors` | Physician details and specialties |
 | `province_names` | Province identifiers and names |
 
+![ERD Diagram](https://github.com/Jerin-Abraham-George/SQL-You-Later/blob/main/Hospital-Database-Analytics-SQL-Project/Documents/ERD%20Diagram.png)
+
 ---
 
 ## 📊 Analysis Areas
